@@ -1,7 +1,9 @@
 export default function Page() {
   return (
     <div>
-      Hello next
+      <h1>
+        The wild oasis, welcome to paradise.
+      </h1>
     </div>
   );
 }
